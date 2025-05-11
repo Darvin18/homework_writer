@@ -1,0 +1,16 @@
+D:\Prograramming\unik\C#\homework_writer\bin\Debug\net8.0-windows\homework_writer.exe
+D:\Prograramming\unik\C#\homework_writer\bin\Debug\net8.0-windows\homework_writer.deps.json
+D:\Prograramming\unik\C#\homework_writer\bin\Debug\net8.0-windows\homework_writer.runtimeconfig.json
+D:\Prograramming\unik\C#\homework_writer\bin\Debug\net8.0-windows\homework_writer.dll
+D:\Prograramming\unik\C#\homework_writer\bin\Debug\net8.0-windows\homework_writer.pdb
+D:\Prograramming\unik\C#\homework_writer\obj\Debug\net8.0-windows\homework_writer.Form1.resources
+D:\Prograramming\unik\C#\homework_writer\obj\Debug\net8.0-windows\homework_writer.csproj.GenerateResource.cache
+D:\Prograramming\unik\C#\homework_writer\obj\Debug\net8.0-windows\homework_writer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prograramming\unik\C#\homework_writer\obj\Debug\net8.0-windows\homework_writer.AssemblyInfoInputs.cache
+D:\Prograramming\unik\C#\homework_writer\obj\Debug\net8.0-windows\homework_writer.AssemblyInfo.cs
+D:\Prograramming\unik\C#\homework_writer\obj\Debug\net8.0-windows\homework_writer.csproj.CoreCompileInputs.cache
+D:\Prograramming\unik\C#\homework_writer\obj\Debug\net8.0-windows\homework_writer.dll
+D:\Prograramming\unik\C#\homework_writer\obj\Debug\net8.0-windows\refint\homework_writer.dll
+D:\Prograramming\unik\C#\homework_writer\obj\Debug\net8.0-windows\homework_writer.pdb
+D:\Prograramming\unik\C#\homework_writer\obj\Debug\net8.0-windows\homework_writer.genruntimeconfig.cache
+D:\Prograramming\unik\C#\homework_writer\obj\Debug\net8.0-windows\ref\homework_writer.dll
